@@ -15,9 +15,10 @@ int main() {
         }
 
     if (primo == 1)
-        printf("%d é primo.\n", n);
+        printf("%d É primo.\n", n);
     else
-        printf("%d não é primo.\n", n);
+        printf("%d Não é primo.\n", n);
         
     return 0;
 }
+
